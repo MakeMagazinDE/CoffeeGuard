@@ -6,8 +6,10 @@ Maker Media GmbH
 # CoffeeGuard
 Kaffee-Tab-Waage mit Alarm per E-Mail und MQTT
 
-### Mit dieser Mausefalle fangen Sie die kleinen Nagetiere völlig human, nämlich lebend. Sobald eine Maus in der Falle sitzt, werden Sie per EMail benachrichtigt und erhalten sogar ein Foto des gefangenen Tieres. So kann es schnell befreit werden.
+### Diese Kaffee-Tab-Waage überwacht ständig den Kaffee-Vorrat und gibt bei Unterschreiten der lebenswichtigen Mindestmenge Alarm.M
 
-![Picture](https://github.com/MakeMagazinDE/Mausefalle/blob/main/432611_1.jpg) 
+![Picture](https://github.com/MakeMagazinDE/CoffeeGuard/blob/main/Aufmacher.jpg)
 
-Hier finden Sie das Programm zur Mausefalle. Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/22 ab Seite XX](https://www.heise.de/select/make/2021/1/2020408465876482831)** zu lesen. 
+Hier finden Sie das Programm zur Mausefalle. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/22 ab Seite XX](https://www.heise.de/select/make/2021/1/2020408465876482831)** zu lesen.
+Die Anleitung zur Software gibt es [hier.](https://heise.de/-7101685) 
