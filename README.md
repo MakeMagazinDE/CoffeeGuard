@@ -12,6 +12,6 @@ Kaffee-Tab-Waage mit Alarm per E-Mail und MQTT
 
 Hier finden Sie das Programm zur Mausefalle. 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/22 ab Seite XX](https://www.heise.de/select/make/2022/3/2205311170134682868) ** zu lesen
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/22 ab Seite 40](https://www.heise.de/select/make/2022/3/2205311170134682868) ** zu lesen
 
 Die Anleitung zur Software gibt es [hier.](https://heise.de/-7101685) 
