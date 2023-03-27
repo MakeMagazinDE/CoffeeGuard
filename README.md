@@ -6,7 +6,7 @@ Maker Media GmbH
 # CoffeeGuard
 Kaffee-Tab-Waage mit Alarm per E-Mail und MQTT
 
-### Diese Kaffee-Tab-Waage überwacht ständig den Kaffee-Vorrat und gibt bei Unterschreiten der lebenswichtigen Mindestmenge Alarm.M
+### Diese Kaffee-Tab-Waage überwacht ständig den Kaffee-Vorrat und gibt bei Unterschreiten der lebenswichtigen Mindestmenge Alarm.
 
 ![Picture](https://github.com/MakeMagazinDE/CoffeeGuard/blob/main/Aufmacher.jpg)
 
